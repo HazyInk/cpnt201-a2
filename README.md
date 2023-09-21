@@ -1,6 +1,6 @@
 # Birds
 
-![cassowary](cassowary.jpg)
+![Cassowary](cassowary.jpg)
 
 Birds are a group of warm-blooded vertebrates characterised by feathers, the laying of hard-shelled eggs, a high metabolic rate, a four-chambered heart, and a strong yet lightweight skeleton. They are also characterised by toothless beaked jaws, however some species do have an egg tooth, which is a temporary, sharp projection present on the bill or snout of an oviparous animal at hatching. It allows the hatchling to penetrate the eggshell from inside and break free. 
 
