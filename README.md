@@ -1,6 +1,6 @@
 # Birds
 
-![Cassowary](cassowary.jpg)
+![cassowary](cassowary.jpg)
 
 Birds are a group of warm-blooded vertebrates characterised by feathers, toothless beaked jaws, the laying of hard-shelled eggs, a high metabolic rate, a four-chambered heart, and a strong yet lightweight skeleton.
 
