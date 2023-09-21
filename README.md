@@ -14,9 +14,8 @@
  - [List of individual birds](https://en.wikipedia.org/wiki/List_of_individual_birds)
  - [Ornithology](https://en.wikipedia.org/wiki/Ornithology)
  - [Cassowary](https://en.wikipedia.org/wiki/Cassowary)
- 
-[Paleocene dinosaurs](https://en.wikipedia.org/wiki/Dinosaur#Possible_Paleocene_survivors)
+ - [Paleocene dinosaurs](https://en.wikipedia.org/wiki/Dinosaur#Possible_Paleocene_survivors)
 
-### Attribution
+### Attributions
 [Bird Wiki](https://en.wikipedia.org/wiki/Bird)
  - [Cassowary Image](https://en.wikipedia.org/wiki/Cassowary#/media/File:Southern_Cassowary_7071.jpg) By [Summerdrought](https://commons.wikimedia.org/wiki/User:Summerdrought)
