@@ -12,8 +12,12 @@
  - [Climate change and birds](https://en.wikipedia.org/wiki/Climate_change_and_birds)
  - [Glossary of bird terms](https://en.wikipedia.org/wiki/Glossary_of_bird_terms)
  - [List of individual birds](https://en.wikipedia.org/wiki/List_of_individual_birds)
+<<<<<<< HEAD
  - [Ornithology](https://en.wikipedia.org/wiki/Ornithology)
  - [Cassowary](https://en.wikipedia.org/wiki/Cassowary)
+=======
+ - [Ornithology](https://en.wikipedia.org/wiki/Ornithology) 
+>>>>>>> ed5f6dab7667a82ee55c7d97eff084f0686fb09f
  
 [Paleocene dinosaurs](https://en.wikipedia.org/wiki/Dinosaur#Possible_Paleocene_survivors)
 
